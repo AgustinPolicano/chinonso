@@ -59,7 +59,7 @@ export const Footer = () => {
             fontSize={{base:"12px", xl:"15px"}}
             textAlign={{base:"center", xl:"unset"}}
             >
-            © 2021 SPK-Solutions. Todos los derechos reservados. 
+            © 2021 Chinonso. Todos los derechos reservados. 
             </Box>
             </Center>
         </Box>
