@@ -50,7 +50,7 @@ export const BodyTexto = () => {
                         color="gray.500"
                         id="info"
                         >
-                            SPK-Solutions durante este año ha satisfecho las  <br></br>
+                            Chinonso durante este año ha satisfecho las  <br></br>
                             necesidades de más de 4000 clientes alrededor de <br></br>
                            todo el mundo. Nuestros expertos usan una poderosa  <br></br>
                             combinación de creatividad e inteligencia artificial <br></br>
@@ -95,7 +95,7 @@ export const BodyTexto = () => {
                              mt="1rem"
                              color="negro"
                             >
-  SPK-Solutions durante este año ha satisfecho las  <br></br>
+  Chinonso durante este año ha satisfecho las  <br></br>
                             necesidades de más de 4000 clientes alrededor de <br></br>
                            todo el mundo. Nuestros expertos usan una poderosa  <br></br>
                             combinación de creatividad e inteligencia artificial <br></br>

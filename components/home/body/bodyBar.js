@@ -98,7 +98,7 @@ export const BodyBar = () => {
                     mb="2rem"
                     fontSize={{base:"12px", xl:"15px"}}
                   >
-                      En SPK-Solutions trabajamos con más de 20 lenguajes <br></br>
+                      En Chinonso trabajamos con más de 20 lenguajes <br></br>
                       diferentes, desde Inglés hasta el Portugués. Somos una <br></br>
                       empresa de confianza dispuesta a solucionar tus problemas.
                   </Box>

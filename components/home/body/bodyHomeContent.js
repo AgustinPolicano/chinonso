@@ -53,7 +53,7 @@ export const BodyHomeContent = () => {
                         color="gray.500"
                      
                         >
-                            SPK-Solutions es una pequeña Startup creada el <br></br>
+                            Chinonso es una pequeña Startup creada el <br></br>
                             año pasado debido al contexto actual respecto al <br></br>
                             COVID-19, en la localidad de Palermo, en Buenos Aires. <br></br>
 
@@ -101,7 +101,7 @@ export const BodyHomeContent = () => {
                              mt="1rem"
                              color="negro"
                             >
- SPK-Solutions es una pequeña Startup creada el <br></br>
+ Chinonso es una pequeña Startup creada el <br></br>
                             año pasado debido al contexto actual respecto al <br></br>
                             COVID-19, en la localidad de Palermo, en Buenos Aires. <br></br>
                             <br></br>

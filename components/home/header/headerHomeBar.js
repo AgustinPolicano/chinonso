@@ -43,7 +43,7 @@ export const HeaderHomeBar = () => {
                     <Link href="./">
                         <Image
                             src="./logo.png"
-                            w={{xl:"400px"}}
+                            w={{xl:"300px"}}
                             pos="relative"
                             
                            

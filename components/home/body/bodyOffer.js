@@ -33,7 +33,7 @@ export const BodyOffer = () => {
                             textAlign="center"
                             mt="2rem"
                             >
-                                En esta sección vas a aprender más sobre lo que SPK-Solutions ofrece a sus clientes.<br></br>
+                                En esta sección vas a aprender más sobre lo que Chinonso ofrece a sus clientes.<br></br>
                                  Siempre ofrecemos una traducción de
                                 una gran calidad, interpretación y servicios educativos
                             </Box>
