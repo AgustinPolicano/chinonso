@@ -10,9 +10,14 @@ import { Footer } from '../components/home/footer/footer';
 
 export default function Home() {
   return (
-    
+
+ 
     
        <Box>
+            <Head>
+      <title>Chinonso - Traducciones Empresariales</title>
+    <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+    </Head>
          <HeaderHome/>
          <BodyHome/>
           <Footer/> 
